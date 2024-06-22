@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the badge&logo=java&logoColor=F7DF1EB" />
   <img src="https://img.shields.io/badge/XML-20232a.svg?style=for-the badge&logo=xml&logoColor=F7DF1EB" />
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/C#-20232a.svg?style=for-the badge&logo=c#&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/C#-20232a.svg?style=for-the badge&logo=csharp&logoColor=512BD4" />
 </div>
 
 <h3 align="center">Tool</h3>
