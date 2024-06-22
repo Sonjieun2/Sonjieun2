@@ -22,5 +22,5 @@
 
 <br>
 <div align="center">
-  ![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2&show_icons=true=true&theme=shadow_green)
+  ![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2ID&show_icons=true&theme=radical)
 </div>
