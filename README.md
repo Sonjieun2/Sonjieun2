@@ -22,6 +22,6 @@
 
 <br>
 <div align="center">
-  ![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2ID&show_icons=true&theme=radical)
-  ![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2&hide=contribs,prs&show_icons=true&theme=shadow_green)
+  ![Sonjieun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2ID&show_icons=true&theme=radical)
+  ![Sonjieun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2&hide=contribs,prs&show_icons=true&theme=shadow_green)
 </div>
