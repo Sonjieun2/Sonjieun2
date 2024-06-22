@@ -22,4 +22,4 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2ID&show_icons=true&theme=radical)
+![Sonjieun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2&show_icons=true&theme=radical)
