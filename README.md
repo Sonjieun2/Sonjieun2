@@ -34,3 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the badge&logo=unity&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Figma-20232a.svg?style=for-the badge&logo=figmat&logoColor=F24E1E" />
 </div>
+
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Sonjieun2=anuraghazra&layout=compact)
+</div>
