@@ -22,11 +22,5 @@
 
 <br>
 <div align="center">
-  ![jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2&show_icons=true&theme=radical)
-</div>
-
-<br>
-
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjieun2&layout=compact)
+  ![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2&theme=shadow_green&show_icons=true)
 </div>
