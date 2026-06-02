@@ -10,6 +10,10 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
         <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
     </div>
+</div>
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjieun2&layout=compact&theme=radical" />
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjieun2&layout=compact&theme=radical" />
 </div>
