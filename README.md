@@ -1,27 +1,22 @@
-## Hi
-
-<h3 align="center">Language</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-20232a.svg?style=for-the badge&logo=javascript&logoColor=F7DF1EB" />
-  <img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the badge&logo=java&logoColor=F7DF1EB" />
-  <img src="https://img.shields.io/badge/XML-20232a.svg?style=for-the badge&logo=xml&logoColor=F7DF1EB" />
-  <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/C#-20232a.svg?style=for-the badge&logo=csharp&logoColor=512BD4" />
-</div>
-
-<h3 align="center">Tool</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/TailwindCSS-20232a.svg?style=for-the badge&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/AndroidStudio-20232a.svg?style=for-the badge&logo=androidstudio&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the badge&logo=unity&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Figma-20232a.svg?style=for-the badge&logo=figmat&logoColor=F24E1E" />
-</div>
-
-<br>
-
-<div align="center">
-  ![Sonjieun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2&show_icons=true&theme=radical)
-</div>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div  align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link="> </a>
+         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Jieun&custom_title=Jieun's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        />  </div> 
+    </div>
+    
