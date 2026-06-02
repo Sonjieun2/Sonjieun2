@@ -11,5 +11,5 @@
         <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
     </div>
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjieun2&layout=compact&theme=radical)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjieun2&layout=compact&theme=radical" />
 </div>
