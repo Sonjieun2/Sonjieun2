@@ -1,7 +1,7 @@
 
 <h3>반갑습니다! 손지은입니다.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="25" height="25" /></h3>
 
-<div align=center>
+<div>
 
 ## Tech Skills
 
