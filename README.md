@@ -2,7 +2,7 @@
 <h3>반갑습니다! 손지은입니다.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="25" height="25" /></h3>
 
 <div align=center>
-  
+
 ## Tech Skills
 
 | Category | Stack |
@@ -14,6 +14,4 @@
 | 🎨**Tools** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | 🔎**Other** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonjieun2)](https://github.com/anuraghazra/github-readme-stats)
 </div>
