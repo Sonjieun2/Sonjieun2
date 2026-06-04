@@ -1,7 +1,5 @@
-## About Me
-- 손지은
-- Email: jeun2e2@gmail.com
-- 컴퓨터공학전공
+<div align=center>
+<h3>반갑습니다! 손지은입니다.</h3>
 
 ## Tech Skills
 
@@ -15,4 +13,5 @@
 | 🔎**Other** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
 
 
-[![stats](https://github-readme-stats.vercel.app/api?Sonjieun2=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjieun2&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
