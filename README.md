@@ -15,4 +15,4 @@
 | 🔎**Other** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjieun2)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?Sonjieun2=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
