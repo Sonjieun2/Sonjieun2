@@ -1,3 +1,5 @@
+## Tech Skills
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Study </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
